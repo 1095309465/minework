@@ -1,4 +1,4 @@
-package com.example.myapplication;
+package com.qsj.library;
 
 import org.junit.Test;
 
