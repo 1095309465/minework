@@ -1,1 +1,1 @@
-include ':app', ':qsjlib'
+include ':qsjlib', ':qsjutillibrary'
