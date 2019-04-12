@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <!-- 升级省钱-->
+
+    <color name="app_save_money_pillars_bottom">#FE7C2E</color>
+    <color name="app_save_money_pillars_top">#FFB633</color>
+    <color name="app_save_money_pillars_line">#FE9030</color>
+    <color name="app_save_money_pillars_text">#434343</color>
+    <color name="ho_line">#FE9030</color>
+
+    <color name="ho_line_grade">#434343</color>
+</resources>
